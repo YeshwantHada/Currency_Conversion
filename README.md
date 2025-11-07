@@ -1,4 +1,4 @@
-#**Currency Conversion to USD**
+# **Currency Conversion to USD**
 ## **Overview**
 This project fetches real-time currency conversion rates against the **US Dollar (USD)** using the https://fixer.io/ and exports the data into an **Excel file** for easy access and analysis.
 
