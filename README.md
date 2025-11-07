@@ -10,22 +10,6 @@ This project fetches real-time currency conversion rates against the **US Dollar
 
 ---
 
-## **Project Structure**
-```
-Currency_Conversion/
-│
-├── src/
-│   └── currency_to_excel.py      # Main script
-├── examples/
-│   └── sample_output.xlsx        # Example output file
-├── README.md                     # Documentation
-├── requirements.txt              # Dependencies
-├── LICENSE                       # MIT License
-└── .gitignore                    # Ignore unnecessary files
-```
-
----
-
 ## **Requirements**
 Install dependencies:
 ```bash
