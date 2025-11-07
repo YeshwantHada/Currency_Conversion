@@ -1,11 +1,3 @@
-# **Currency Conversion to USD**
-
-https://img.shields.io/badge/Python-3.9+-blue  
-https://img.shields.io/badge/API-Fixer.io-green  
-https://img.shields.io/badge/Output-Excel-yellow
-
----
-
 ## **Overview**
 This project fetches real-time currency conversion rates against the **US Dollar (USD)** using the https://fixer.io/ and exports the data into an **Excel file** for easy access and analysis.
 
